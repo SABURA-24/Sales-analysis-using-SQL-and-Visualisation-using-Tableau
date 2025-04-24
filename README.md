@@ -8,7 +8,15 @@
 
 The goal of this project is to analyze the sales performance of a pizza chain using transactional data. This includes understanding customer behavior, product trends, and identifying key revenue-driving metrics to support business decisions.
 
----
+
+---![Screenshot (14)](https://github.com/user-attachments/assets/5e83fe9b-72bc-4e83-92ef-1b59bec4afc5)
+
+
+
+
+![Screenshot (15)](https://github.com/user-attachments/assets/edb2359f-fbd7-436d-98db-c904fbd430f6)
+
+
 
 ## 📌 Business Questions & KPIs
 
