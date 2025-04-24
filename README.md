@@ -14,6 +14,11 @@ The goal of this project is to analyze the sales performance of a pizza chain us
 
 
 
+
+
+
+
+
 ![Screenshot (15)](https://github.com/user-attachments/assets/edb2359f-fbd7-436d-98db-c904fbd430f6)
 
 
